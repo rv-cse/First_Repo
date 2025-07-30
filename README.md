@@ -1,2 +1,6 @@
 # First_Repo
-Hey, this is my first Repository.
+Date: 30/07/2025
+Author: RV
+
+Hello! World
+This is my first Repository.
